@@ -1,0 +1,388 @@
+
+
+
+Code Inspire
+27.6K subscribers
+Let's Build a Multi-Purpose Laravel + Vue Application is out now. In this series, you learn everything you need to know about Building a complete web application with Laravel and Vue js. So, I am so excited that so many of you guys like my content and keep inspiring me to create more videos. My goals is to inspire you to write better code and better applications. 
+
+Open Source At Github.
+https://github.com/Hujjat/laravStart
+
+Here are the things you will learn in this series:
+
+* How use Vue Router with Laravel
+* How to Install AdminLTE 3
+* How to Use Font Awesome 5 on Laravel
+* How integrate mailchimp with laravel
+* How to use Laravel Socialite
+* How to Login Using Social Media
+* How to Use API in Laravel
+* Api Auth with Laravel Passport
+* JWT with Laravel Passport and JavaScript Request
+* Vue Custom Events
+* Vue form with Laravel
+* Relational Database with Laravel
+* Axios and Ajax Request
+* ACL in Laravel
+* Online Users list
+* And much more...
+
+
+Tags:
+
+JWT with Laravel,tutorial,coding,laravel,laravel and vue js tutorial,laravel and vuejs,laravel and vue js project,laravel admin panel,laravel adminlte,laravel admin,vue js tutorial,vue js,axios,laravel application development,learn laravel 5.6,learn laravel framework,laravel crud,laravel crud tutorial,spa,laravel how to,laravel tips,coding tips,admin lte laravel 5.6,adminlte with php,laravel api,laravel passport, hosting, cloud, web hosting
+Let's Build a Multi-Purpose Laravel + Vue Application
+Code Inspire
+20 / 54
+
+
+
+
+1
+
+7:08
+NOW PLAYING
+Let's Build a Multi-Purpose Laravel + Vue Application
+Code Inspire
+2
+
+13:41
+NOW PLAYING
+Installing AdminLTE 3 on Laravel 5.7 and Bootstrap 4
+Code Inspire
+3
+
+11:51
+NOW PLAYING
+Configure Fontawesome 5 with AdminLTE 3 and Laravel 5.7
+Code Inspire
+4
+
+6:13
+NOW PLAYING
+Push Laravel and Vue Project to Github
+Code Inspire
+5
+
+6:12
+NOW PLAYING
+Customizing The AdminLTE 3 Menu For Laravel 5.7
+Code Inspire
+6
+
+11:28
+NOW PLAYING
+Configure Vue Router to Laravel 5.7 and Admin LTE 3
+Code Inspire
+7
+
+6:37
+NOW PLAYING
+Detect Active Menu in Vue Router and Laravel Plus HTML5 History Mode
+Code Inspire
+8
+
+8:15
+NOW PLAYING
+Custom Color for Font Awesome Icons and How Logout Works in Laravel
+Code Inspire
+9
+
+4:08
+NOW PLAYING
+Create User Managment Component in Vue and Laravel
+Code Inspire
+10
+
+11:03
+NOW PLAYING
+Display Users in Table and Modal Window for Creating new User in Laravel and Vue
+Code Inspire
+11
+
+10:47
+NOW PLAYING
+Using VFrom for Back-end Error Handling in Laravel and Vuejs
+Code Inspire
+12
+
+10:29
+NOW PLAYING
+API Resource Controller in Laravel 5.7 with Vuejs
+Code Inspire
+13
+
+9:13
+NOW PLAYING
+Insert User Data to Database Using Axios in Laravel 5.7 and Vue
+Code Inspire
+14
+
+4:59
+NOW PLAYING
+😇 Nice Server Validation with Laravel and Vue js (handle with vForm)
+Code Inspire
+15
+
+9:27
+NOW PLAYING
+Display Users from Database in Table Using Axios in Laravel and Vue
+Code Inspire
+16
+
+7:59
+NOW PLAYING
+Global Vuejs Filters and Momentjs Instead of Carbon in Laravel and Vue
+Code Inspire
+17
+
+6:33
+NOW PLAYING
+ProgressBar with Vuejs and Laravel When Create new Record with Ajax.
+Code Inspire
+18
+
+7:03
+NOW PLAYING
+Sweet Alert in Laravel 5.7 and Vue after Ajax Request
+Code Inspire
+19
+
+8:12
+NOW PLAYING
+Send HTTP Request Every 3 Seconds to Update Data in Laravel and Vuejs
+Code Inspire
+▶
+
+10:58
+NOW PLAYING
+Use Custom Event to Send HTTP Request After You Create the User in Laravel and Vuejs
+Code Inspire
+21
+
+4:34
+NOW PLAYING
+Using Promise to Detect Successfull HTTP Request in Laravel and Vue
+Code Inspire
+22
+
+18:12
+NOW PLAYING
+Delete User with Ajax Request and SweetAlert Modal in Laravel and Vuejs
+Code Inspire
+23
+
+9:27
+NOW PLAYING
+Using One Modal Window for Creating and Updating Data in Laravel and Vuejs
+Code Inspire
+24
+
+12:52
+NOW PLAYING
+Conditionally Switch Between Edit Mode and Create Mode of Modal Window
+Code Inspire
+25
+
+14:33
+NOW PLAYING
+Correctly Update User Information with Unique Email in Database with Laravel and Vue
+Code Inspire
+26
+
+10:10
+NOW PLAYING
+Security Issues While Developing API in Laravel and Vuejs
+Code Inspire
+27
+
+13:36
+NOW PLAYING
+Installing Laravel Passport for API Auth in Laravel 5.7
+Code Inspire
+28
+
+5:41
+NOW PLAYING
+All we need is JWT for Laravel API Authentication
+Code Inspire
+29
+
+8:52
+NOW PLAYING
+Let's Make User Profile Component for User In Laravel and Vuejs
+Code Inspire
+30
+
+11:23
+NOW PLAYING
+Populate Login User Information in User Profile with Laravel and Vuejs
+Code Inspire
+31
+
+15:29
+NOW PLAYING
+What is Base64 ? How to Prepare file Upload with Base64 in Javascript Using Laravel and Vuejs
+Code Inspire
+32
+
+6:35
+NOW PLAYING
+Submit Base64 String to Server for Uploading in Laravel and Vuejs
+Code Inspire
+33
+
+10:20
+NOW PLAYING
+Upload and Convert Base64 String to Image In PHP and Laravel
+Code Inspire
+34
+
+6:48
+NOW PLAYING
+Checking File Size While Uploading Limit to less than 2MB in Laravel and Vue
+Code Inspire
+35
+
+15:08
+NOW PLAYING
+Save New Profile Information with Validation in Database Laravel and Vue
+Code Inspire
+36
+
+10:27
+NOW PLAYING
+Proper Error Handling in Profile Page Laravel 5 7 and Vuejs
+Code Inspire
+37
+
+7:13
+NOW PLAYING
+How to Delete Old Photo From Server if User Change Profile Photo in Laravel 5.7 an Vue
+Code Inspire
+38
+
+5:23
+NOW PLAYING
+How to Display Profile Picture in Vuejs file and Laravel 5.7
+Code Inspire
+39
+
+4:54
+NOW PLAYING
+Different Ways to Apply Access Conltrol List for Users in Laravel
+Code Inspire
+40
+
+8:30
+NOW PLAYING
+How to Upgrade Our Laravel 5.6 to 5.7 (Basic guide)
+Code Inspire
+41
+
+9:38
+NOW PLAYING
+Update Profile Picture Instantly After Uploading in Laravel and Vuejs
+Code Inspire
+42
+
+7:54
+NOW PLAYING
+Easily Add ACL to Laravel Without Extra Tables in Database
+Code Inspire
+43
+
+7:46
+NOW PLAYING
+Limited Access to Controllers Using ACL in Laravel
+Code Inspire
+44
+
+14:56
+NOW PLAYING
+Laravel 5.7 ACL in Front-end Using Vue js
+Code Inspire
+45
+
+12:54
+NOW PLAYING
+Design 404 Page for Front-End If User Doesn't Have Access
+Code Inspire
+46
+
+9:58
+NOW PLAYING
+How User and Author Can Have The Same Access Level in Laravel 5.7 Front-end and Back-end
+Code Inspire
+47
+
+5:00
+NOW PLAYING
+Laravel and Vuejs Pagination Best Packages
+Code Inspire
+48
+
+10:34
+NOW PLAYING
+Laravel 5.7 and Vuejs Ajax Pagination
+Code Inspire
+49
+
+7:17
+NOW PLAYING
+Review - What Else We Need to Add for Our Laravel + Vue App ?
+Code Inspire
+50
+
+4:35
+NOW PLAYING
+Vue Router 404 Page with Laravel 5.7
+Code Inspire
+51
+
+16:35
+NOW PLAYING
+Re-Usable Search Functionality in Laravel 5.7 and Vuejs ( Ajax, Axios )
+Code Inspire
+52
+
+7:47
+NOW PLAYING
+Instant Search With Laravel and Vuejs Use ( Debounce )
+Code Inspire
+53
+
+6:10
+NOW PLAYING
+Print Invoice as PDF in Laravel using JavaScript
+Code Inspire
+54
+
+10:08
+NOW PLAYING
+How to Use Laravel + Vuejs Starter Template ( Wrap-up and New Series)
+Code Inspire
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
